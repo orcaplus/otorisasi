@@ -1,13 +1,6 @@
 {
-  "versionCode": 1667,
-  "versionName": "1.6.6.7",
-  "Msg": "Pembaruan baru tersedia, untuk melanjutkan di aplikasi kami, harap perbarui.
-
-Apa yang terbaru:
-- Peningkatan Kinerja.
-- Perbaikan kerusakan.
-- Perubahan kecil lainnya.
-
-Terima kasih telah menggunakan aplikasi ini",
-  "downloadLink": "https://t.me/ORCAMODSINDO"
-  }
+  "message": "Aplikasi Anda sudah habis masa berlakunya.  Perpanjang validitasnya sekarang untuk terus menikmati aplikasi, terima kasih!",
+  "expirationDate": "2024-06-30",
+  "dateFormat": "yyyy-MM-dd",
+  "buttonLink": "https://t.me/ORCAMODSINDO"
+}
