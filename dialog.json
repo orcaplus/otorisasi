@@ -7,11 +7,8 @@
     "showNegativeButton": true,
     "negativeButtonText": "Join Channel",
     "negativeButtonUrl": "https://t.me/ORCAMODSINDO",
-    "showPositiveButton": true,
+    "showPositiveButton": false,
     "positiveButtonText": "Maybe Later",
     "maxShowCount": 3,
-    "controlByShowCount": false,
-    "forceClose": false,
-    "checkCRC": true,
-    "expectedCRC": "ORCAMODS"
+    "controlByShowCount": true
 }
