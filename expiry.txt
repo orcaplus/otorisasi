@@ -1,1 +1,2 @@
-RMX3563 - realme_RMX3563_-284840886 - 2026/06/17
+Device: realme RMX3563
+ID: reaRMX-886
