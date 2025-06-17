@@ -1,8 +1,10 @@
-{
+[
+  {
     "device_id": "4034997055168232",
-    "expired": "2026-6-17",
+    "expired": "2026-6-17 23-59-59",
     "model": "RMX3563",
     "package_name": "dev.countdown.dialog",
-    "status": "",
-    "created_at": "2025-6-17"
-   }
+    "status": "active",
+    "created_at": "2025-06-75 00-00-00"
+  }
+]
