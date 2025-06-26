@@ -1,2 +1,0 @@
-Device: realme RMX3563
-ID: reaRMX-886
