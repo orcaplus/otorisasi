@@ -1,9 +1,9 @@
 [
   {
-    "id": "a40349970e55e168",
+    "id": "efdcbf7a62c778e7",
     "username": "user01",
     "password": "pass01",
-    "expiresAt": "2025-12-31",
+    "expiresAt": "2025-01-31",
     "allowOffline": false
   },
   {
